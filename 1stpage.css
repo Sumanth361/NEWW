@@ -1,5 +1,8 @@
 
-
+*{
+    margin: 0;
+    padding: 0;
+}
 .container{
    
     background-image: url("Images/shutterstock_348320018.png");
@@ -207,15 +210,15 @@
 }
 .description1{
     /* margin-top: 30px; */
-    margin-left: 178px;
-    margin-top: -170px;
+    margin-left: 196px;
+    margin-top: -133px;
     
 }
 .description2{
     /* margin-top: 30px; */
-    margin-left: 178px;
-    margin-top: -170px;
+    margin-left: 181px;
+    margin-top: -134px;
     color: black;
-    position:absolute;
+    position: absolute;
     
 }
